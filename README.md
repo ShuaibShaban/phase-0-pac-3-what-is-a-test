@@ -112,7 +112,7 @@ familiar with the tests, and then run them in the next lesson.
 ```javascript
 const { name, height, message } = require("../index.js");
 
-/*
+
 describe('what-is-a-test', () => {
   describe('Name', () => {
     it('returns "Susan"', () => {
@@ -134,7 +134,7 @@ describe('what-is-a-test', () => {
     })
   })
 })
-*/
+
 ```
 
 In the first line, we're enabling the tests to access the variables in
